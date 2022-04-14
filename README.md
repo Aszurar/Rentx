@@ -77,8 +77,8 @@ ___
 
 ## :art: Design
 
-[<h2 align="center">Rentx - Figma</h2>]()
-<img src="" width="870">
+[<h2 align="center">Rentx - Figma</h2>](https://www.figma.com/file/hG7MqbWCWDL8FqXPbl2c3C/RentX)
+<img src="https://i.imgur.com/R42UA5p.png" width="870">
 
 ___
 ## :seedling: Requisitos Mínimos
@@ -114,6 +114,8 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
   - [React-Native-Reanimated - Expo](https://docs.expo.dev/versions/latest/sdk/reanimated/)
   - [Settings - Android](https://github.com/expo/fyi/blob/main/hermes-android-config.md)
   - [Settings -IOS](https://github.com/expo/fyi/blob/main/hermes-ios-config.md)
+- [React-Native-Responsive-Fontsize](https://github.com/heyman333/react-native-responsive-fontSize)
+- [Styled-Components](https://styled-components.com/)
 - [Yarn](https://classic.yarnpkg.com/blog/2017/05/12/introducing-yarn/)
 ___
 ## :package: Como baixar e executar o projeto
