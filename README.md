@@ -16,10 +16,10 @@ ___
 
 ___
 
-<div align="center" ><img src="" width="200">
+<div align="center" ><img src="https://i.imgur.com/0jEm8nT.gif" width="200">
 </div>
 
-- [**Link do vídeo completo sobre o projeto**](https://youtu.be/vM0xW6EMjs0)
+- [**Link do vídeo completo sobre o projeto**](https://youtube.com/shorts/QN2oQnBmZSA?feature=share)
 
 ___
 
@@ -137,6 +137,11 @@ ___
     ```bash
         a
     ```
+
 - Lembrando que, caso seja executado pelo emulador, o ideal é sempre deixa-lo aberto antes de aplicar os comandos acima.
+- Além disso, como temos o json-server, será necessário executá-lo para carregar os dados da aplicação, basta abrir um novo terminal e executar:
+    ```bash
+        yarn api
+    ```
 ___
 Desenvolvido por :star2: Lucas de Lima Martins de Souza.
