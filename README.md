@@ -56,7 +56,7 @@ Assim, nesse projeto criamos:
   
 <div align="center" >
   <img src="https://i.imgur.com/0RRzNBf.jpg" width="200">______
-  <img src="" width=250>_______
+  <img src="https://i.imgur.com/77dTVEE.gif" width=250>_______
   <img src="https://i.imgur.com/CkHYgQt.jpg" width=200>
 </div>
 
@@ -65,7 +65,7 @@ Assim, nesse projeto criamos:
   
 <div align="center" >
   <img src="https://i.imgur.com/grQiXiH.jpg" width="200">______
-  <img src="" width=250>_______
+  <img src="https://i.imgur.com/0jEm8nT.gif" width=250>_______
   <img src="https://i.imgur.com/wM4vPAi.jpg" width=200>
 </div>
 
