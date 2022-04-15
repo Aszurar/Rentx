@@ -30,13 +30,13 @@ O 3º projeto do bootcamp Ignite na trilha react-native, é o 2º projeto com o 
 * **Página Inicial**:
   
 <div align="center" >
-  <img src="https://i.imgur.com/dAnmNYW.jpg" width="200">__________________<img src="" width=250>
+  <img src="https://i.imgur.com/dAnmNYW.jpg" width="200">__________________<img src="https://i.imgur.com/3b9zhPj.gif" width=250>
 </div>
 
 * **Carros alugados**:
 
 <div align="center" >
-  <img src="https://i.imgur.com/1q6ZUbR.jpg" width="200">___________________________<img src="" width=250>
+  <img src="https://i.imgur.com/1q6ZUbR.jpg" width="200">___________________________<img src="https://i.imgur.com/Ji4oQft.gif" width=250>
 </div>
  
 ## :interrobang: Motivo
