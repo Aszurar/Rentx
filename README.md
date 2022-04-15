@@ -30,13 +30,13 @@ O 3º projeto do bootcamp Ignite na trilha react-native, é o 2º projeto com o 
 * **Página Inicial**:
   
 <div align="center" >
-  <img src="" width="200">__________________<img src="" width=250>
+  <img src="https://i.imgur.com/dAnmNYW.jpg" width="200">__________________<img src="" width=250>
 </div>
 
-* **Botão flutuante**:
+* **Carros alugados**:
 
 <div align="center" >
-  <img src="" width="200">___________________________<img src="" width=250>
+  <img src="https://i.imgur.com/1q6ZUbR.jpg" width="200">___________________________<img src="" width=250>
 </div>
  
 ## :interrobang: Motivo
@@ -55,24 +55,20 @@ Assim, nesse projeto criamos:
 * **Detalhes sobre o veículo**:
   
 <div align="center" >
-  <img src="" width="200">______
+  <img src="https://i.imgur.com/0RRzNBf.jpg" width="200">______
   <img src="" width=250>_______
-  <img src="" width=200>
+  <img src="https://i.imgur.com/CkHYgQt.jpg" width=200>
 </div>
 
 
 * **Agendamento/Cadastro**:
   
 <div align="center" >
-  <img src="" width="200">______
+  <img src="https://i.imgur.com/grQiXiH.jpg" width="200">______
   <img src="" width=250>_______
-  <img src="" width=200>
+  <img src="https://i.imgur.com/wM4vPAi.jpg" width=200>
 </div>
 
-* **Detalhes sobre o agendamento**:
-<div align="center" >
-  <img src="" width="200">___________________________<img src="" width=250>
-</div>
 ___
 
 ## :art: Design
