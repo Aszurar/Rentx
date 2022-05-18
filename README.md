@@ -38,7 +38,7 @@ O 3º projeto do bootcamp Ignite na trilha react-native, é o 2º projeto com o 
 <div align="center" >
   <img src="https://i.imgur.com/1q6ZUbR.jpg" width="200">___________________________<img src="https://i.imgur.com/Ji4oQft.gif" width=250>
 </div>
- 
+ ___
 ## :interrobang: Motivo
 
 Esse projeto tem por objetivo por em praticar os conceitos básicos de React Native no desenvolvimento mobile no 3º capítulo do curso **Ignite** de **React Native**. 
